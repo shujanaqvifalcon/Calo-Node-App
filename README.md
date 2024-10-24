@@ -23,7 +23,7 @@ This is the backend service for the **Job Challenge** project. It handles job cr
 1. Clone the repository:
 
    ```bash
-   git clone git@github.com:shujanaqvifalcon/calo-F.E.git
+   git clone git@github.com:shujanaqvifalcon/Calo-Node-App.git
    ```
 
 2. Install dependencies:
